@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML,CSS,JS,PHP,POSTGRESQL**
+- 💬 Ask me about **HTML,CSS,JS,PHP,POSTGRESQL,React,TypeScript**
 
 - 📫 How to reach me **yusufcanozan9@gmail.com**
 
