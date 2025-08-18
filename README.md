@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yusuf Can Ozan</h1>
 <h3 align="center">A İnterested Web Based Application Developer From Turkey</h3>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **TypeScript**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **HTML,CSS,JS,PHP,POSTGRESQL,React,TypeScript**
 
