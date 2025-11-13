@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFdEcK1RJuDZQ/profile-displaybackgroundimage-shrink_350_1400/B4DZnZMOLhH4Ac-/0/1760285484741?e=1762992000&v=beta&t=ZL-7om3aQ_yQ92YXsAbF-CZ2lNfmveg5D4IaWRpalzk)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFdEcK1RJuDZQ/profile-displaybackgroundimage-shrink_200_800/B4DZnZMOLhH4AY-/0/1760285484741?e=1764806400&v=beta&t=bAFGwmIFj_QZgdP8v77w3BcoG3YzwPNLSmEnVAsnCTA)
 
 <h1 align="center">Hi 👋, I'm Yusuf Can Ozan</h1>
 <h3 align="center">A İnterested Full-Stack Developer From Turkey</h3>
