@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHKASHUDD0kiw/profile-displaybackgroundimage-shrink_350_1400/B4DZrySmJ9JEAc-/0/1765001553169?e=1766620800&v=beta&t=8WZcnUMhVgCpcFuZgEHNrOPpsqnveCD-k54QIKHyOXo)
 
 <h1 align="center">Hi 👋, I'm Yusuf Can Ozan</h1>
-<h3 align="center">A İnterested Full-Stack Developer From Turkey</h3>
+<h3 align="center">A İnterested Web-Developer | Software-Developer From Turkey</h3>
 
 - 🔭 I’m currently working on **TypeScript**
 
