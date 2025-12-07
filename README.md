@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHKASHUDD0kiw/profile-displaybackgroundimage-shrink_350_1400/B4DZrySmJ9JEAc-/0/1765001553169?e=1766620800&v=beta&t=8WZcnUMhVgCpcFuZgEHNrOPpsqnveCD-k54QIKHyOXo)
+
 # Hi 👋, I'm Yusuf Can Ozan
 
 ### A İnterested Web-Developer | Software-Developer From Turkey
