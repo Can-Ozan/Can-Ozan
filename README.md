@@ -2,8 +2,6 @@
 
 ### A passionate Web developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Can-Ozan" alt="Can-Ozan" /></a> </p>
-
 - 🔭 I'm currently working on **TypeScript**
 
 - 🌱 I'm currently learning **TypeScript**
