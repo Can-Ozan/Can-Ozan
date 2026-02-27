@@ -1,3 +1,5 @@
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHKASHUDD0kiw/profile-displaybackgroundimage-shrink_350_1400/B4DZrySmJ9JEAc-/0/1765001553169?e=1773878400&v=beta&t=WxvBj2_TfFwKOuktSk0cVXEa-BEo28yL84ND95A53zo)
+
 # Hi 👋, I'm Yusuf Can Ozan
 
 ### A passionate Web developer
