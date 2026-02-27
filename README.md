@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Yusuf Can Ozan
 
-### A passionate Web developer
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F25&width=435&lines=Web-Developer+%7C+Software+Developer" alt="Typing SVG" /></a> ##
 
 - 🔭 I'm currently working on **TypeScript**
 
