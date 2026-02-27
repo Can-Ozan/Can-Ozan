@@ -31,7 +31,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Ozan&" alt="Can-Ozan"></img></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Can-Ozan&theme=radical&hide_border=true&background=00000000)](https://github.com/Can-Ozan)
 <p><img align="center" src="https://komarev.com/ghpvc/?username=Can-Ozan&label=Profil+Ziyaretleri&color=f72585&style=for-the-badge" alt="Can-Ozan"></img></p>
 
 
