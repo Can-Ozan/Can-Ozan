@@ -1,9 +1,9 @@
 ![githubgif](https://github.com/user-attachments/assets/229148cd-2d7e-4d0b-a26c-11e820784608)
 
 
-# Hi 👋, I'm Yusuf Can Ozan
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6785F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yusuf+Can+Ozan" alt="Typing SVG" /></a>
 
-## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F25&width=435&lines=Web-Developer+%7C+Software+Developer" alt="Typing SVG" /></a> ##
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6785F7&width=435&lines=Web-Developer+%7C+Software+Developer" alt="Typing SVG" /></a> ##
 
 - 🔭 I'm currently working on : **TypeScript**
 
