@@ -1,4 +1,5 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHKASHUDD0kiw/profile-displaybackgroundimage-shrink_350_1400/B4DZrySmJ9JEAc-/0/1765001553169?e=1773878400&v=beta&t=WxvBj2_TfFwKOuktSk0cVXEa-BEo28yL84ND95A53zo)
+![githubgif](https://github.com/user-attachments/assets/229148cd-2d7e-4d0b-a26c-11e820784608)
+
 
 # Hi 👋, I'm Yusuf Can Ozan
 
