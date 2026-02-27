@@ -5,13 +5,13 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F25&width=435&lines=Web-Developer+%7C+Software+Developer" alt="Typing SVG" /></a> ##
 
-- 🔭 I'm currently working on **TypeScript**
+- 🔭 I'm currently working on : **TypeScript**
 
-- 🌱 I'm currently learning **TypeScript**
+- 🌱 I'm currently learning : **TypeScript**
 
-- 💬 Ask me about ** HTML5,CSS3,JAVASCRİPT,NODE.JS,REACT,TYPESCRİPT,C#**
+- 💬 Ask me about : **HTML5,CSS3,JAVASCRİPT,NODE.JS,REACT,TYPESCRİPT,C#**
 
-- 📫 How to reach me **yusufcanozan9@gmail.com**
+- 📫 How to reach me: **yusufcanozan9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
