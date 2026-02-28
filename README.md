@@ -24,12 +24,11 @@
 
 ### 👨‍💻 Geliştirici Profili & Kariyer Hedefleri
 
-* 🏢 **Deneyim:** Gündüzleri stajda edindiğim sektörel tecrübeyi, akşamları kendi projelerime entegre ediyorum.
-* 🎓 **Akademik Hedef:** Kariyerimi sağlam temellere oturtmak adına iyi bir üniversite eğitimi için TYT hazırlıklarımı sürdürüyorum.
-* 🚀 **Aktif Geliştirme:** **Universal Video Downloader Pro** projesinin bakımını üstleniyor; hata ayıklama (debugging) süreçlerini yönetiyorum.
-* 🌱 **Sürekli Öğrenme:** Güçlü bir JavaScript temelinin üzerine, **30-days-of-typescript** ve **30-days-of-Javascript** ile tip güvenli mimariler inşa etme pratikleri yapıyorum.
-* 💬 **Teknoloji Yığını:** HTML5, CSS3, JavaScript, Node.js, React, TypeScript, C#
-* ⚡ **İlgi Alanları:** Derin odaklanma seansları için kulak içi kulaklıklarımla (Samsung Buds 3 FE radarımda) dış dünyayı kapatıyor; analitik düşünme yeteneğimi Bannerlord gibi oyunlarla zinde tutuyorum.
+* 🏢 **Sektörel Deneyim:** Aktif olarak yürüttüğüm yazılım stajımda kurumsal iş akışlarını deneyimliyor; edindiğim pratik saha tecrübesini, mesai sonrası geliştirdiğim projelerde mimari çözümlere dönüştürüyorum.
+* 🎓 **Akademik Vizyon:** Kariyerimi sağlam bir teorik temele oturtmak amacıyla, yazılım odaklı bir lisans eğitimi için akademik sınav hazırlıklarımı yüksek bir disiplinle yürütüyorum.
+* 🚀 **Proje Yönetimi:** **Universal Video Downloader Pro (v6.0)** uygulamasının çekirdek geliştirmelerini sürdürüyor; performans optimizasyonu, hata ayıklama (debugging) ve sürüm kontrol süreçlerini yönetiyorum.
+* 🌱 **Sürekli Öğrenme (Continuous Learning):** Modern web teknolojileri ekosisteminde, **TypeScript** ve **JavaScript** ile tip güvenli (type-safe), sürdürülebilir ve temiz kod (clean code) prensiplerine uygun mimariler tasarlıyorum.
+* ⚡ **Çalışma Kültürü:** Kod kalitesini ve verimliliği maksimize etmek için tam ses izolasyonu sağlayarak 'Deep Work' (derin odaklanma) seansları düzenliyorum.
 
 ---
 
@@ -43,6 +42,17 @@
   </a>
 
   <br><br><br>
+
+ <h3>📊 Geliştirici İstatistikleri</h3>
+  
+  <p align="center">
+    <a href="https://github.com/Can-Ozan">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Can-Ozan&theme=radical" alt="GitHub Profile Stats" />
+    </a>
+    <a href="https://github.com/Can-Ozan">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Can-Ozan&theme=radical" alt="Top Languages" />
+    </a>
+  </p>
 
   <h3>🐍 Contribution Snake</h3>
   <picture>
