@@ -36,10 +36,12 @@
 
 <div align="center">
 
-  <h3>🛠️ Languages and Tools</h3>
+  <h3 align="medium">🛠️ Yetenekler & Araçlar</h3>
+<p align="medium">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,dotnet,cs,python,php,bootstrap,sass&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,dotnet,cs,python,php,bootstrap,sass&theme=dark" alt="Tech Stack" />
   </a>
+</p>
 
   <br><br><br>
 
