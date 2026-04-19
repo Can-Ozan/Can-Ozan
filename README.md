@@ -4,70 +4,64 @@
 
   <br><br>
 
-  <a href="https://github.com/Can-Ozan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Yusuf+Can+Ozan;Web+%26+Software+Developer;TypeScript+%26+JavaScript+Enthusiast;Building+Awesome+Projects..." alt="Typing SVG" />
-  </a>
+ # Merhaba, Ben Can-Ozan 👋
 
-  <br><br>
+**Software Developer | Full-Stack | Sürekli Öğrenen**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufcanozan)
-[![DEV.TO](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yusufcanozan)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yusufcanozan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/lce7GiDJqq)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufcanozan9@gmail.com)
-
-</div>
-
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/profilin)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/profilin)
+[![E-posta](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailadresin@gmail.com)
 
 ---
 
-### 👨‍💻 Geliştirici Profili & Kariyer Hedefleri
+### 💡 Geliştirici Profili & Kariyer Hedefleri
 
-* 🏢 **Sektörel Deneyim:** Aktif olarak yürüttüğüm yazılım stajımda kurumsal iş akışlarını deneyimliyor; edindiğim pratik saha tecrübesini, mesai sonrası geliştirdiğim projelerde mimari çözümlere dönüştürüyorum.
-* 🎓 **Akademik Vizyon:** Kariyerimi sağlam bir teorik temele oturtmak amacıyla, yazılım odaklı bir lisans eğitimi için akademik sınav hazırlıklarımı yüksek bir disiplinle yürütüyorum.
-* 🚀 **Proje Yönetimi:** **Universal Video Downloader Pro (v6.0)** uygulamasının çekirdek geliştirmelerini sürdürüyor; performans optimizasyonu, hata ayıklama (debugging) ve sürüm kontrol süreçlerini yönetiyorum.
-* 🌱 **Sürekli Öğrenme (Continuous Learning):** Modern web teknolojileri ekosisteminde, **TypeScript** ve **JavaScript** ile tip güvenli (type-safe), sürdürülebilir ve temiz kod (clean code) prensiplerine uygun mimariler tasarlıyorum.
-* ⚡ **Çalışma Kültürü:** Kod kalitesini ve verimliliği maksimize etmek için tam ses izolasyonu sağlayarak 'Deep Work' (derin odaklanma) seansları düzenliyorum.
+Kariyerimi mimari standartlara uygun, temiz kod (clean code) prensiplerini benimseyen ve ölçeklenebilir sistemler tasarlamak üzerine inşa ediyorum. Modern web teknolojileri etrafında şekillenen uzmanlığımla, performansı yüksek ve tip güvenli (type-safe) uygulamalar geliştiriyorum.
+
+* **Mimari ve Tasarım:** Kurumsal iş akışlarını destekleyen pratik saha tecrübesi ve mimari tasarım odaklılık.
+* **Sürekli Gelişim:** TypeScript, JavaScript, C# ve modern framework'ler üzerinde derinleşme.
+* **Akademik Vizyon:** Yazılım odaklı eğitimler ve akademik sınavlarda yüksek başarı hedefi.
+* **Çalışma Kültürü:** 'Deep Work' odaklanma metodu ile maksimum verimlilik ve kod kalitesi.
 
 ---
 
-<br>
+### 🛠️ Teknik Yetenekler
 
-<div align="center">
+**Frontend:**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-  <h3 align="medium">🛠️ Yetenekler & Araçlar</h3>
-<p align="medium">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,dotnet,cs,python,php,bootstrap,sass&theme=dark" alt="Tech Stack" />
-  </a>
+**Backend & Frameworks:**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Araçlar & Teknolojiler:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### 🚀 Öne Çıkan Projeler
+
+| Proje Adı | Açıklama | Teknolojiler | Linkler |
+| :--- | :--- | :--- | :--- |
+| **Universal Video Downloader Pro (v2.0)** | Performans optimizasyonu ve hata ayıklama süreçleri yönetilen, yüksek kapasiteli video indirme ve işleme aracı. | `TypeScript`, `Node.js`, `React` | [Github](#) \| [Canlı Demo](#) |
+| **Proje Adı 2** | Projenin ne işe yaradığını anlatan 1-2 cümlelik kısa profesyonel açıklama. | `C#`, `.NET Core` | [Github](#) |
+
+---
+
+### 📊 Github İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Can-Ozan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Ozan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
 </p>
-
-  <br><br><br>
-
- <h3>📊 Geliştirici İstatistikleri</h3>
-  
-  <p align="center">
-    <a href="https://github.com/Can-Ozan">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Can-Ozan&theme=radical" alt="GitHub Profile Stats" />
-    </a>
-    <a href="https://github.com/Can-Ozan">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Can-Ozan&theme=radical" alt="Top Languages" />
-    </a>
-  </p>
-
-  <h3>🐍 Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake.svg">
-  </picture>
-
-  <br><br><br>
-
-  <h3>📊 GitHub Stats</h3>
-  <a href="https://github.com/Can-Ozan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Ozan&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
   </a>
 
   <br><br>
