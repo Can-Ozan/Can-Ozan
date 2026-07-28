@@ -1,172 +1,76 @@
+<h1 align="center">Hi 👋 , I'm [Adınız]</h1>
 
-<div align="center">
+<h3 align="center">A passionate Developer from Turkey 🇹🇷</h3>
 
-<img src="https://github.com/user-attachments/assets/229148cd-2d7e-4d0b-a26c-11e820784608" alt="Workspace GIF" width="100%" />
+<!-- Üst Rozetler (Badges) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=grey" alt="Profile Views" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=409aff" alt="Followers" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=3388ff" alt="Stars" />
+  </a>
+  <a href="https://x.com/YOUR_X_HANDLE">
+    <img src="https://img.shields.io/badge/FOLLOW-%40YOUR__X__HANDLE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow" />
+  </a>
+</p>
 
-<br>
+<br />
 
-# Merhaba, Ben Can-Ozan 👋
+<!-- About Me & GIF Alanı -->
+<h2>🧘‍♀️ About Me</h2>
 
-### 💻 Software Developer · Full-Stack · Sürekli Öğrenen
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" />
 
-<br>
+* 🌍 I'm from **Turkey**
+* 💻 I'm a **Full Stack / Software Developer**
+* 🌱 I'm currently learning **Golang & Security Tools**
+* 🌐 Personal website: [siteniz.com](https://siteniz.com)
+* 📄 LinkedIn: [Yusuf Can Ozan](https://www.linkedin.com/in/yusufcanozan/)
+* 📬 Reach me at: **yusufcanozan9@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/profilin)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/profilin)
-[![E-posta](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailadresin@gmail.com)
+<br clear="right"/>
+<br />
 
-<br>
+<!-- Connect With Me -->
+<h2>☎️ Connect With Me</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Temiz+Kod+%7C+Clean+Code+Prensipler;Tip+G%C3%BCvenli+Uygulamalar+%7C+TypeScript;%C3%96l%C3%A7eklenebilir+Sistem+Tasar%C4%B1m%C4%B1;Deep+Work+%7C+Maksimum+Verimlilik)
+<p>
+  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/STACK%20OVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.linkedin.com/in/yusufcanozan/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/yusfcnozn" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://codepen.io/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://dev.to/yusufcanozan" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" />
+  </a>
+</p>
 
-</div>
+<br />
 
----
+<!-- Languages And Tools -->
+<h2>🛠️ Languages And Tools</h2>
 
-## 🧭 Geliştirici Profili & Kariyer Hedefleri
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,nodejs,js,css,html,bootstrap,php,sass,go,git,ps" alt="Languages and Tools" />
+  </a>
+</p>
 
-> *"Kaliteli yazılım; sadece çalışan değil, okunabilir, sürdürülebilir ve ölçeklenebilir olandır."*
+<br />
 
-Kariyerimi **mimari standartlara uygun**, **temiz kod (clean code)** prensiplerini benimseyen ve **ölçeklenebilir sistemler** tasarlamak üzerine inşa ediyorum. Modern web teknolojileri etrafında şekillenen uzmanlığımla, **performansı yüksek** ve **tip güvenli (type-safe)** uygulamalar geliştiriyorum.
+<!-- GitHub Stats -->
+<h2>💡 GitHub Stats</h2>
 
-<br>
-
-| 🏛️ Mimari & Tasarım | 🚀 Sürekli Gelişim | 🎯 Akademik Vizyon | 🧘 Çalışma Kültürü |
-|:---:|:---:|:---:|:---:|
-| Kurumsal iş akışlarını destekleyen pratik saha tecrübesi ve mimari tasarım odaklılık | TypeScript, JavaScript, C# ve modern framework'ler üzerinde derinleşme | Yazılım odaklı eğitimler ve akademik sınavlarda yüksek başarı hedefi | *Deep Work* odaklanma metodu ile maksimum verimlilik ve kod kalitesi |
-
----
-
-## 🛠️ Teknik Yetenekler
-
-<div align="center">
-
-### 🎨 Frontend
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔧 Araçlar & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Can-Ozan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=F72585&text_color=FFFFFF" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Ozan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=FFFFFF" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Can-Ozan&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=F72585&currStreakLabel=F72585" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Can-Ozan&theme=react-dark&bg_color=0D1117&color=F72585&line=F72585&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%"/>
-
-</div>
-
----
-
-## 🚀 Öne Çıkan Projeler
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>🗂️ Proje Adı</th>
-      <th>📝 Açıklama</th>
-      <th>🧰 Teknolojiler</th>
-      <th>🔗 Linkler</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>🎬 Universal Video Downloader Pro (v2.0)</b></td>
-      <td>Performans optimizasyonu ve hata ayıklama süreçleri yönetilen, yüksek kapasiteli video indirme ve işleme aracı.</td>
-      <td>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      </td>
-      <td>
-        <a href="#">📁 GitHub</a> · <a href="#">🌐 Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><b>📦 Proje Adı 2</b></td>
-      <td>Projenin ne işe yaradığını anlatan 1-2 cümlelik kısa profesyonel açıklama.</td>
-      <td>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-      </td>
-      <td>
-        <a href="#">📁 GitHub</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
----
-
-## 🏆 GitHub Ödülleri
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Can-Ozan&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📬 İletişim
-
-<div align="center">
-
-Bir proje fikriniz mi var? Bir iş birliği mi düşünüyorsunuz? Her zaman açığım! 🤝
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%E2%86%92_Bağlan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/profilin)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%E2%86%92_Yazılarım-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/profilin)
-[![Gmail](https://img.shields.io/badge/Gmail-%E2%86%92_Yaz_Bana-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailadresin@gmail.com)
-
-<br>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=Can-Ozan&label=Profil+Ziyaretleri&color=f72585&style=for-the-badge" alt="Profile Views" />
-
-<br><br>
-
-*⭐ Eğer projelerim işine yaradıysa bir yıldız bırakmayı unutma!*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
-```
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Ozan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Can-Ozan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
