@@ -1,76 +1,24 @@
-<h1 align="center">Hi 👋 , I'm [Adınız]</h1>
+# 💫 About Me:
+- 🔭 I'm currently working on **Typescript **<br><br>- 🌱 I'm currently learning **Typescript-React**<br><br>- 💬 Ask me about **Typescript , React , Python , Git , Docker**<br><br>- 📫 How to reach me **yusufcanozan9@gmail.com**
 
-<h3 align="center">A passionate Developer from Turkey 🇹🇷</h3>
 
-<!-- Üst Rozetler (Badges) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=grey" alt="Profile Views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=for-the-badge&color=409aff" alt="Followers" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=STARS&style=for-the-badge&color=3388ff" alt="Stars" />
-  </a>
-  <a href="https://x.com/YOUR_X_HANDLE">
-    <img src="https://img.shields.io/badge/FOLLOW-%40YOUR__X__HANDLE-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Follow" />
-  </a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufcanozan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32012569) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yusfcnozn) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusufcanozan9@gmail.com) 
 
-<br />
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Can-Ozan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Can-Ozan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Can-Ozan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- About Me & GIF Alanı -->
-<h2>🧘‍♀️ About Me</h2>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Can-Ozan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" />
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Can-Ozan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-* 🌍 I'm from **Turkey**
-* 💻 I'm a **Full Stack / Software Developer**
-* 🌱 I'm currently learning **Golang & Security Tools**
-* 🌐 Personal website: [siteniz.com](https://siteniz.com)
-* 📄 LinkedIn: [Yusuf Can Ozan](https://www.linkedin.com/in/yusufcanozan/)
-* 📬 Reach me at: **yusufcanozan9@gmail.com**
+---
+[![](https://komarev.com/ghpvc/?username=Can-Ozan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br clear="right"/>
-<br />
-
-<!-- Connect With Me -->
-<h2>☎️ Connect With Me</h2>
-
-<p>
-  <a href="https://stackoverflow.com/users/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/STACK%20OVERFLOW-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://www.linkedin.com/in/yusufcanozan/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/yusfcnozn" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://codepen.io/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
-  </a>
-  <a href="https://dev.to/yusufcanozan" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" />
-  </a>
-</p>
-
-<br />
-
-<!-- Languages And Tools -->
-<h2>🛠️ Languages And Tools</h2>
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,nodejs,js,css,html,bootstrap,php,sass,go,git,ps" alt="Languages and Tools" />
-  </a>
-</p>
-
-<br />
-
-<!-- GitHub Stats -->
-<h2>💡 GitHub Stats</h2>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Ozan&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Can-Ozan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
