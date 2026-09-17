@@ -128,8 +128,8 @@ A desktop-focused project exploring media workflows, application UX, download ma
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Can-Ozan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Can-Ozan GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Can-Ozan&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Can-Ozan&theme=github_dark" alt="Can-Ozan GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Can-Ozan&theme=github_dark" alt="Most used languages" />
 
 <br/>
 
