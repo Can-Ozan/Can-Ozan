@@ -1,32 +1,31 @@
 <div align="center">
 
-# Hi, I'm Yusuf Can Ozan 👋
+# Yusuf Can Ozan
 
-### Web Developer • Developer Tools • Security Projects
+### Web Developer • Developer Tools • Security-Focused Projects
 
-I build modern web applications, developer-focused tools, and practical software with an emphasis on **clean UI, usability, performance, and maintainable code**.
+I build practical software with a focus on **TypeScript, React, developer tooling, local-first web apps, and security-oriented utilities**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://can-ozan.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufcanozan)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yusfcnozn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-can--ozan.github.io-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://can-ozan.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Can_Ozan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcanozan)
+[![X](https://img.shields.io/badge/X-@yusfcnozn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yusfcnozn)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusufcanozan9@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💻 Web developer focused on **TypeScript, React, and modern frontend development**
-- 🧰 I enjoy building **developer tools, utilities, dashboards, and automation-oriented projects**
-- 🛡️ Exploring **API security, CI/CD tooling, and Go-based CLI applications**
-- ⚡ I care about **performance, accessibility, clean architecture, and practical UX**
-- 🌱 Continuously improving my skills through real-world projects
-- 📫 Reach me at **yusufcanozan9@gmail.com**
+- Building modern web applications with **React, TypeScript, Vite, and Tailwind CSS**
+- Developing **developer tools, file utilities, dashboards, and desktop applications**
+- Exploring **API security, CI/CD workflows, Go, and automation**
+- Interested in **performance, accessibility, privacy, testing, and maintainable architecture**
+- I learn by shipping real projects, revisiting them, and improving them over time
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -34,65 +33,74 @@ I build modern web applications, developer-focused tools, and practical software
 
 ### 🧰 [DevToolbox](https://github.com/Can-Ozan/DevToolbox)
 
-A privacy-focused collection of developer utilities built with **React + TypeScript**. Includes JSON/YAML tools, JWT decoding, regex testing, hashing, QR generation, Markdown preview, color utilities, and more.
+**35 local-first developer tools in one browser workspace.**
+
+A React + TypeScript PWA for everyday developer work, including formatters, converters, image tools, PDF utilities, ZIP workflows, QR generation, regex testing, hashing, JWT inspection, and more.
 
 **Highlights**
-- 20 browser-based developer tools
-- No account, backend, database, or external API required
+- 35 tools
 - Local-first processing
-- Accessibility and responsive design
-- Vitest + Playwright testing
+- IndexedDB Workspace / File Vault
+- PWA + offline app shell
+- Chromium, Firefox & WebKit verification
+- GitHub Pages deployment
 
-`React` `TypeScript` `Vite` `Tailwind CSS`
+[Live Demo](https://can-ozan.github.io/DevToolbox/)
+
+`React 19` `TypeScript 6` `Vite 8` `Tailwind CSS 4` `PWA`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛡️ [APIScan](https://github.com/Can-Ozan/api-security-scanner)
 
-A concurrent CLI security scanner for REST APIs written in **Go**, designed for practical security auditing and CI/CD workflows.
+A concurrent REST API security scanner written in **Go** for practical auditing and CI/CD use.
 
 **Highlights**
 - Security headers, CORS, TLS, cookies and HTTP method checks
 - Concurrent scanning engine
 - JSON, HTML and SARIF reports
-- CI/CD-friendly severity thresholds
+- Severity-based CI exit thresholds
 - Docker support
 
 `Go` `Security` `CLI` `Docker` `SARIF`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 [Developer Portfolio](https://github.com/Can-Ozan/Can-Ozan.github.io)
 
-My personal developer portfolio, designed around real project data, motion, interactive experiences, and a strong developer-focused visual identity.
+My personal portfolio built around real project data, project case studies, motion, and developer-focused interactions.
 
 **Highlights**
 - GitHub-powered project data
-- Interactive project showcases
+- Interactive project presentation
 - Project case studies
 - Motion and micro-interactions
 - Developer command palette
+
+[Live Site](https://can-ozan.github.io/)
 
 `React` `TypeScript` `GitHub API` `Frontend`
 
 </td>
 <td width="50%" valign="top">
 
-### 📺 [YouTube Downloader Pro](https://github.com/Can-Ozan/Youtube-Downloader-Pro-v7.0)
+### 📺 [YouTube Downloader Pro v7](https://github.com/Can-Ozan/Youtube-Downloader-Pro-v7.0)
 
-A desktop-focused project exploring media workflows, application UX, download management, and iterative product development.
+A modular desktop media workflow application built with Python and Qt.
 
-**Focus**
-- Practical desktop-style workflow
-- User-focused interface
-- Iterative feature development
-- Project documentation and release improvements
+**Highlights**
+- Queue and history management
+- Turkish / English live language switching
+- FFmpeg-powered processing
+- Cross-platform CI checks
+- Windows packaging workflow
 
-`Python` `Desktop Tools` `Automation`
+`Python` `PySide6` `yt-dlp` `FFmpeg` `GitHub Actions`
 
 </td>
 </tr>
@@ -100,7 +108,7 @@ A desktop-focused project exploring media workflows, application UX, download ma
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -124,42 +132,46 @@ A desktop-focused project exploring media workflows, application UX, download ma
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Can-Ozan&theme=github_dark" alt="Can-Ozan GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Can-Ozan&theme=github_dark" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Can-Ozan&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Can-Ozan&theme=github_dark" alt="Repositories per language" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Can-Ozan&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Can-Ozan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 🎯 What I'm Focused On
+## Contribution Graph
 
-```text
-Building useful products      ████████████████████
-Improving TypeScript / React  ███████████████████░
-Developer tooling             ██████████████████░░
-API & application security    ███████████████░░░░░
-Backend engineering           ██████████████░░░░░░
-```
-
-I prefer learning by **building real projects, improving them over time, and turning ideas into usable software**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
-## 🤝 Let's Connect
+## Current Focus
 
-I'm always interested in discussing web development, developer tools, open-source projects, and new project ideas.
+- Expanding **DevToolbox** as a privacy-friendly, local-first developer workspace
+- Improving production-quality **React + TypeScript** architecture
+- Building stronger automated testing and CI/CD workflows
+- Learning more about **backend engineering, API security, and Go**
+- Turning side projects into polished, documented, usable products
+
+---
+
+## Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Can_Ozan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusufcanozan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yusuf_Can_Ozan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcanozan)
 [![GitHub](https://img.shields.io/badge/GitHub-Can--Ozan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Can-Ozan)
 [![X](https://img.shields.io/badge/X-@yusfcnozn-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yusfcnozn)
 [![Email](https://img.shields.io/badge/Email-yusufcanozan9%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yusufcanozan9@gmail.com)
