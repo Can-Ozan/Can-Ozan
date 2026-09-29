@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/main/assets/profile-header.svg" width="100%" alt="Yusuf Can Ozan — Web Developer" />
+<img src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/main/assets/profile-header.svg" width="100%" alt="Yusuf Can Ozan developer terminal header" />
 
 <br/>
 
-I build **developer tools, local-first web applications, and security-focused software** with an emphasis on clean interfaces, reliability, and maintainable code.
+<code>building useful software with clean architecture, strong UX, and practical engineering</code>
 
 </div>
 
