@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/main/assets/profile-header.svg" width="100%" alt="Yusuf Can Ozan animated developer header" />
+<img src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/main/assets/profile-header.svg" width="100%" alt="Yusuf Can Ozan — Web Developer" />
 
 <br/>
 
-**Web Developer · Developer Tools · Security-Focused Projects**
-
-I build practical, maintainable software with a focus on **React, TypeScript, local-first web applications, developer tooling, and security-oriented utilities**.
-
-<sub>Clean interfaces · Reliable workflows · Privacy-conscious software · Continuous improvement</sub>
+I build **developer tools, local-first web applications, and security-focused software** with an emphasis on clean interfaces, reliability, and maintainable code.
 
 </div>
 
