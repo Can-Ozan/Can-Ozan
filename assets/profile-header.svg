@@ -1,59 +1,31 @@
-<svg width="1000" height="190" viewBox="0 0 1000 190" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="190" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0D1117"/>
-      <stop offset="0.5" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0D1117"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="300" y1="0" x2="700" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset="0.5" stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#34D399"/>
-    </linearGradient>
-    <filter id="softGlow" x="-20%" y="-400%" width="140%" height="900%">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<svg width="960" height="180" viewBox="0 0 960 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="180" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="958" height="178" rx="15" stroke="#30363D"/>
 
-  <rect width="1000" height="190" rx="18" fill="url(#bg)"/>
-  <rect x="1" y="1" width="998" height="188" rx="17" stroke="#30363D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="30" y="34" fill="#8B949E" font-size="14">~/Can-Ozan</text>
+    <text x="885" y="34" fill="#3FB950" font-size="14">main</text>
+    <circle cx="910" cy="29" r="4" fill="#3FB950">
+      <animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="15" opacity=".55">
-    <text x="34" y="34" fill="#8B949E">&lt;developer /&gt;</text>
-    <text x="966" y="34" fill="#8B949E" text-anchor="end">github.com/Can-Ozan</text>
-  </g>
+    <text x="30" y="72" fill="#7EE787" font-size="16">$</text>
+    <text x="50" y="72" fill="#C9D1D9" font-size="16">whoami</text>
 
-  <text x="500" y="86" fill="#F0F6FC" font-size="38" font-weight="700"
-        font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">Yusuf Can Ozan</text>
+    <text x="30" y="108" fill="#F0F6FC" font-size="30" font-weight="700">Yusuf Can Ozan</text>
 
-  <rect x="350" y="104" width="300" height="3" rx="1.5" fill="url(#accent)" filter="url(#softGlow)">
-    <animate attributeName="x" values="390;350;390" dur="5s" repeatCount="indefinite"/>
-    <animate attributeName="width" values="220;300;220" dur="5s" repeatCount="indefinite"/>
-  </rect>
-
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
-     font-size="17" text-anchor="middle">
-    <text x="500" y="143" fill="#22D3EE">
-      Web Developer · React · TypeScript
+    <text x="30" y="140" fill="#8B949E" font-size="15">&gt;</text>
+    <text x="50" y="140" fill="#58A6FF" font-size="15">
+      web developer · react · typescript · developer tools
       <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.43;0.5;1" dur="8s" repeatCount="indefinite"/>
     </text>
-    <text x="500" y="143" fill="#A78BFA" opacity="0">
-      Developer Tools · Local-first Apps · Security
+    <text x="50" y="140" fill="#BC8CFF" font-size="15" opacity="0">
+      local-first apps · api security · automation · ci/cd
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.43;0.5;0.93;1" dur="8s" repeatCount="indefinite"/>
     </text>
-  </g>
 
-  <circle cx="470" cy="165" r="2.5" fill="#8B5CF6">
-    <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="500" cy="165" r="2.5" fill="#22D3EE">
-    <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin=".45s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="530" cy="165" r="2.5" fill="#34D399">
-    <animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin=".9s" repeatCount="indefinite"/>
-  </circle>
+    <rect x="30" y="157" width="9" height="15" rx="1.5" fill="#C9D1D9">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 </svg>
