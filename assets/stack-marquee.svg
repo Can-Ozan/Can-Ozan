@@ -1,0 +1,32 @@
+<svg width="980" height="58" viewBox="0 0 980 58" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="58" rx="12" fill="#0D1117"/>
+  <rect x="1" y="1" width="978" height="56" rx="11" fill="none" stroke="#21262D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" font-weight="600">
+    <g>
+      <text x="0" y="35" fill="#58A6FF">TypeScript</text>
+      <text x="120" y="35" fill="#61DAFB">React</text>
+      <text x="200" y="35" fill="#3FB950">Node.js</text>
+      <text x="295" y="35" fill="#FFD43B">Python</text>
+      <text x="390" y="35" fill="#00ADD8">Go</text>
+      <text x="445" y="35" fill="#38BDF8">Tailwind</text>
+      <text x="555" y="35" fill="#2496ED">Docker</text>
+      <text x="650" y="35" fill="#2088FF">GitHub Actions</text>
+      <text x="810" y="35" fill="#F05032">Git</text>
+      <text x="860" y="35" fill="#A78BFA">Vite</text>
+      <animateTransform attributeName="transform" type="translate" values="980 0;-980 0" dur="18s" repeatCount="indefinite"/>
+    </g>
+    <g>
+      <text x="0" y="35" fill="#58A6FF">TypeScript</text>
+      <text x="120" y="35" fill="#61DAFB">React</text>
+      <text x="200" y="35" fill="#3FB950">Node.js</text>
+      <text x="295" y="35" fill="#FFD43B">Python</text>
+      <text x="390" y="35" fill="#00ADD8">Go</text>
+      <text x="445" y="35" fill="#38BDF8">Tailwind</text>
+      <text x="555" y="35" fill="#2496ED">Docker</text>
+      <text x="650" y="35" fill="#2088FF">GitHub Actions</text>
+      <text x="810" y="35" fill="#F05032">Git</text>
+      <text x="860" y="35" fill="#A78BFA">Vite</text>
+      <animateTransform attributeName="transform" type="translate" values="1960 0;0 0" dur="18s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
