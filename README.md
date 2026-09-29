@@ -1,8 +1,10 @@
 <div align="center">
 
-# Yusuf Can Ozan
+<img src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/main/assets/profile-header.svg" width="100%" alt="Yusuf Can Ozan animated developer header" />
 
-### Web Developer · Developer Tools · Security-Focused Projects
+<br/>
+
+**Web Developer · Developer Tools · Security-Focused Projects**
 
 I build practical, maintainable software with a focus on **React, TypeScript, local-first web applications, developer tooling, and security-oriented utilities**.
 
@@ -154,16 +156,6 @@ A modular desktop media workflow application built with Python and Qt.
 <img src="https://streak-stats.demolab.com?user=Can-Ozan&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
----
-
-## Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
