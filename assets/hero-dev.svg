@@ -36,8 +36,4 @@
   <rect x="52" y="192" width="220" height="2" rx="1" fill="url(#line)">
     <animate attributeName="x" values="52;708;52" dur="6s" repeatCount="indefinite"/>
   </rect>
-
-  <rect x="52" y="198" width="8" height="14" rx="1" fill="#C9D1D9">
-    <animate attributeName="opacity" values="1;0;1" dur=".9s" repeatCount="indefinite"/>
-  </rect>
 </svg>
