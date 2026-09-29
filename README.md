@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/main/assets/hero-dev.svg" width="100%" alt="Animated developer terminal profile" />
+<img src="https://raw.githubusercontent.com/Can-Ozan/Can-Ozan/main/assets/hero-dev-v2.svg" width="100%" alt="Animated developer terminal profile" />
 
 <br/>
 
