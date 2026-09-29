@@ -1,0 +1,36 @@
+<svg width="980" height="220" viewBox="0 0 980 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="980" y2="0">
+      <stop stop-color="#58A6FF"/>
+      <stop offset=".5" stop-color="#BC8CFF"/>
+      <stop offset="1" stop-color="#3FB950"/>
+    </linearGradient>
+  </defs>
+  <rect width="980" height="220" rx="18" fill="#0D1117"/>
+  <rect x="1" y="1" width="978" height="218" rx="17" fill="none" stroke="#30363D"/>
+  <circle cx="30" cy="28" r="5" fill="#FF5F56"/>
+  <circle cx="48" cy="28" r="5" fill="#FFBD2E"/>
+  <circle cx="66" cy="28" r="5" fill="#27C93F"/>
+  <text x="88" y="33" fill="#8B949E" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">profile.ts</text>
+
+  <text x="52" y="68" fill="#7EE787" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">$ whoami</text>
+  <text x="52" y="104" fill="#F0F6FC" font-size="31" font-weight="700" font-family="Inter, Segoe UI, Arial, sans-serif">Yusuf Can Ozan</text>
+
+  <text x="52" y="140" fill="#8B949E" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">const focus =</text>
+  <text x="163" y="140" fill="#58A6FF" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    "developer tools · local-first apps"
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.42;.5;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+  <text x="163" y="140" fill="#BC8CFF" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" opacity="0">
+    "api security · automation · ci/cd"
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.42;.5;.92;1" dur="8s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="52" y="170" fill="#8B949E" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">stack:</text>
+  <text x="105" y="170" fill="#3FB950" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">TypeScript · React · Node.js · Python · Go</text>
+
+  <rect x="52" y="192" width="876" height="2" rx="1" fill="#21262D"/>
+  <rect x="52" y="192" width="220" height="2" rx="1" fill="url(#line)">
+    <animate attributeName="x" values="52;708;52" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
