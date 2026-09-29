@@ -1,0 +1,17 @@
+<svg width="980" height="92" viewBox="0 0 980 92" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="92" rx="14" fill="#0D1117"/>
+  <rect x="1" y="1" width="978" height="90" rx="13" fill="none" stroke="#21262D"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <circle cx="55" cy="46" r="6" fill="#3FB950"><animate attributeName="r" values="5;7;5" dur="1.8s" repeatCount="indefinite"/></circle>
+    <text x="78" y="39" fill="#8B949E" font-size="12">BUILDING</text>
+    <text x="78" y="59" fill="#F0F6FC" font-size="15">DevToolbox</text>
+
+    <circle cx="370" cy="46" r="6" fill="#58A6FF"><animate attributeName="opacity" values=".35;1;.35" dur="2.1s" repeatCount="indefinite"/></circle>
+    <text x="393" y="39" fill="#8B949E" font-size="12">LEARNING</text>
+    <text x="393" y="59" fill="#F0F6FC" font-size="15">Backend · Go</text>
+
+    <circle cx="690" cy="46" r="6" fill="#BC8CFF"><animate attributeName="r" values="5;7;5" dur="2.4s" repeatCount="indefinite"/></circle>
+    <text x="713" y="39" fill="#8B949E" font-size="12">FOCUS</text>
+    <text x="713" y="59" fill="#F0F6FC" font-size="15">Security · Automation</text>
+  </g>
+</svg>
