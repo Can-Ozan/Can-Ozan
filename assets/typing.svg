@@ -1,0 +1,6 @@
+<svg width="760" height="48" viewBox="0 0 760 48" xmlns="http://www.w3.org/2000/svg">
+  <style>text { font: 600 20px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }</style>
+  <rect width="760" height="48" fill="transparent"/>
+  <text x="380" y="31" text-anchor="middle" fill="#58A6FF">Web Developer · React · TypeScript · Developer Tools    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.44;0.5;1" dur="8s" repeatCount="indefinite"/>  </text>
+  <text x="380" y="31" text-anchor="middle" fill="#BC8CFF" opacity="0">Local-first Apps · API Security · Automation · CI/CD    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.5;0.94;1" dur="8s" repeatCount="indefinite"/>  </text>
+</svg>
