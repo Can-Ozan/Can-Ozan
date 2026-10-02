@@ -29,11 +29,11 @@ I'm a web developer who enjoys building products that are actually useful — fr
 
 ### 🧰 [DevToolbox](https://github.com/Can-Ozan/DevToolbox)
 
-> **35 local-first developer tools. One workspace. Zero backend.**
+> **37 local-first developer tools. One workspace. Zero backend.**
 
-A React + TypeScript PWA for everyday developer workflows with formatters, converters, image/PDF tools, ZIP utilities, QR generation, regex testing, hashing, JWT inspection, and a reusable IndexedDB workspace.
+A React + TypeScript PWA for everyday developer workflows with formatters, converters, image/PDF tools, ZIP utilities, workspace collections, package analysis, QR generation, regex testing, hashing, JWT inspection, and a reusable IndexedDB workspace.
 
-**Highlights:** local-first processing · PWA/offline support · file workspace · multi-browser testing · GitHub Pages
+**Highlights:** local-first processing · PWA/offline support · Workspace collections · package analysis · multi-browser testing · GitHub Pages
 
 [Live Demo](https://can-ozan.github.io/DevToolbox/) · [Source](https://github.com/Can-Ozan/DevToolbox)
 
