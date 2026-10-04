@@ -95,7 +95,13 @@ Built for practical security auditing and CI/CD workflows with checks for securi
 
 ---
 
-## GitHub Activity
+## GitHub Activity & Momentum
+
+<div align="center">
+
+`building consistently` · `shipping often` · `learning continuously`
+
+</div>
 
 <div align="center">
 
