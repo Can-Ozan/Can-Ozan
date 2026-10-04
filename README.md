@@ -25,6 +25,16 @@ I'm a web developer who enjoys building products that are actually useful — fr
 
 ---
 
+## Currently Building
+
+<div align="center">
+
+`🛠 DevToolbox` · `🔐 API Security` · `⚙️ Developer Automation` · `🚀 Better DX`
+
+</div>
+
+---
+
 ## Featured Projects
 
 ### 🧰 [DevToolbox](https://github.com/Can-Ozan/DevToolbox)
