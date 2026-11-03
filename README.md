@@ -25,13 +25,12 @@ I'm a web developer who enjoys building products that are actually useful — fr
 
 ---
 
-## Currently Building
+## Engineering Focus
 
-<div align="center">
-
-`🛠 DevToolbox` · `🔐 API Security` · `⚙️ Developer Automation` · `🚀 Better DX`
-
-</div>
+- **Developer experience** — building small, reliable tools that remove friction from everyday workflows.
+- **Local-first applications** — keeping user data close, minimizing unnecessary backend dependencies, and supporting offline use.
+- **Application security** — making API behavior easier to inspect through practical checks and clear reports.
+- **Automation & quality** — improving repeatability with testing, CI/CD, and maintainable project structure.
 
 ---
 
